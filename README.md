@@ -9,6 +9,9 @@ Bu GitHub deposunda, [290+ Makine Öğrenimi Projesi](https://medium.com/coders-
 1. **[Kredi Skoru Tahmini](https://github.com/Aliemree/MachineLearning/tree/main/CreditScore)**:  
    Kişilerin finansal verilerini kullanarak kredi skorlarını tahmin eden bir model geliştirdim. Model, çeşitli finansal ve demografik özellikler kullanılarak tahmin yapmaktadır.
 
+2. **[Hava Durumu Tahmini](https://github.com/Aliemree/MachineLearning/tree/main/WeatherForecasting)**  
+   Bu proje, geçmiş hava durumu verilerini kullanarak gelecekteki hava durumunu tahmin etmeye yönelik bir model geliştirmeyi hedefler. Veri analizi, veri görselleştirme ve tahmin modellemesi süreçlerini içermektedir.
+
 ## Nasıl Katkıda Bulunabilirsiniz?
 
 Bu projeye katkıda bulunmak isterseniz, lütfen bir [pull request](https://github.com/Aliemree/MachineLearning/pulls) oluşturun veya [issue](https://github.com/Aliemree/MachineLearning/issues) açın.  
