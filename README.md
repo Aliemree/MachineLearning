@@ -1,34 +1,56 @@
-# Makine Öğrenimi Projeleri
+# 📊 Makine Öğrenimi Projeleri
 
-Bu GitHub deposunda, [290+ Makine Öğrenimi Projesi](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265) listesindeki projeleri her gün bir proje olarak ele alacağım. Her bir projeyi Python kullanarak çözüp, süreci ve öğrendiklerimi detaylı bir şekilde paylaşacağım. Bu yolculuk, makine öğrenimi konusundaki bilgi ve becerilerimi derinleştirmeyi ve topluluğa değerli kaynaklar sunmayı amaçlamaktadır.
+Bu GitHub deposunda, [290+ Makine Öğrenimi Projesi](https://medium.com/@soner.yildirim/290-makine-%C3%B6%C4%9Frenimi-projesi-7d5b3c7e15f0) listesindeki projeleri **Python ile uygulayarak** paylaşıyorum.  
+Her proje, adım adım açıklamalar ve kodlar ile belgelenmiştir.
 
-**Tam proje listesi için [makaleyi](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265) ziyaret edebilirsiniz.**
+📌 **Amaç:** Makine öğrenimi alanındaki bilgi ve becerileri geliştirmek.  
+📌 **İçerik:** Finans, hava durumu tahmini, zaman serisi analizi gibi birçok farklı problem.  
 
-## Proje Listesi
+---
 
-1. **[Kredi Skoru Tahmini](https://github.com/Aliemree/MachineLearning/tree/main/CreditScore)**:  
-   Kişilerin finansal verilerini kullanarak kredi skorlarını tahmin eden bir model geliştirdim. Model, çeşitli finansal ve demografik özellikler kullanılarak tahmin yapmaktadır.
+## 📌 Proje Listesi
 
-2. **[Hava Durumu Tahmini](https://github.com/Aliemree/MachineLearning/tree/main/WeatherForecasting)**  
-   Bu proje, geçmiş hava durumu verilerini kullanarak gelecekteki hava durumunu tahmin etmeye yönelik bir model geliştirmeyi hedefler. Veri analizi, veri görselleştirme ve tahmin modellemesi süreçlerini içermektedir.
+### 🔹 1. Kredi Skoru Tahmini ([CreditScore](./CreditScore))
+📌 **Açıklama:** Kişilerin finansal geçmişine dayanarak kredi skorlarını tahmin eden bir model oluşturuldu.  
+📌 **Kullanılan Teknikler:** Veri analizi, makine öğrenimi, regresyon modelleri.  
 
-## Nasıl Katkıda Bulunabilirsiniz?
+---
 
-Bu projeye katkıda bulunmak isterseniz, lütfen bir [pull request](https://github.com/Aliemree/MachineLearning/pulls) oluşturun veya [issue](https://github.com/Aliemree/MachineLearning/issues) açın.  
-Her türlü geri bildirim ve katkı memnuniyetle karşılanacaktır.
+### 🔹 2. Yemek Teslimat Süresi Tahmini ([FoodDeliveryTimePrediction](./FoodDeliveryTimePrediction))
+📌 **Açıklama:** Restoranların sipariş teslimat sürelerini etkileyen faktörler incelendi ve tahmin modeli geliştirildi.  
+📌 **Kullanılan Teknikler:** Lojistik regresyon, rastgele orman modeli.  
 
-## Kurulum
+---
 
-Projeyi kendi bilgisayarınıza klonlamak için şu adımları izleyin:
+### 🔹 3. Hava Durumu Tahmini ([WeatherForecasting](./WeatherForecasting))
+📌 **Açıklama:** Geçmiş hava durumu verileri kullanılarak gelecekteki hava tahmini yapıldı.  
+📌 **Kullanılan Teknikler:** Zaman serisi analizi, regresyon modelleri.  
 
-'''bash
-git clone https://github.com/Aliemree/MachineLearning.git
-cd MachineLearning
-pip install -r requirements.txt
+---
 
+### 🔹 4. ARIMA ile Hisse Fiyat Tahmini ([ARIMAHisseFiyatTahmini](./ARIMAHisseFiyatTahmini))
+📌 **Açıklama:** ARIMA modeli ile hisse senedi fiyat tahmini gerçekleştirildi.  
+📌 **Kullanılan Teknikler:** Zaman serisi modelleme, ARIMA analizi.  
 
-##Lisans
+---
 
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## 🚀 Nasıl Katkıda Bulunabilirsiniz?
 
+🛠️ Projelere katkıda bulunmak veya geliştirmek istiyorsanız:  
+1. **Fork yapın** (Sağ üstte "Fork" butonuna tıklayın).  
+2. **Kendi branşınızı oluşturun** (`git checkout -b yeni-branch`).  
+3. **Kodunuzu ekleyin ve commit yapın** (`git commit -m "Yeni özellik ekleme"`).  
+4. **Pull request (PR) açın** ve katkınızı paylaşın! 🚀  
 
+---
+
+## 📜 Lisans
+
+Bu proje **MIT Lisansı** ile lisanslanmıştır.  
+Daha fazla bilgi için **[LICENSE](./LICENSE)** dosyasına bakabilirsiniz.  
+
+---
+
+📌 **İletişim:**  
+Herhangi bir sorunuz veya öneriniz varsa, GitHub üzerinden benimle iletişime geçebilirsiniz!  
+⭐ **Projeyi beğendiyseniz lütfen repo'yu yıldızlamayı unutmayın!** ⭐  
