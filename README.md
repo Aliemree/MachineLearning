@@ -33,6 +33,11 @@ Her proje, adım adım açıklamalar ve kodlar ile belgelenmiştir.
 📌 **Kullanılan Teknikler:** Zaman serisi modelleme, ARIMA analizi.  
 
 ---
+### 🔹 5. Website Traffic Forecasting ([WebsiteTrafficForecasting](https://github.com/Aliemree/MachineLearning/tree/main/WebsiteTrafficForecasting))  
+📌 **Açıklama:** Web sitesi trafiği tahmini yapmak amacıyla zaman serisi analizleri ve ARIMA modeli kullanıldı.  
+📌 **Kullanılan Teknikler:** Zaman serisi analizi, ARIMA modeli, SARIMAX.
+
+---
 
 ## 🚀 Nasıl Katkıda Bulunabilirsiniz?
 
